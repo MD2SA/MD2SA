@@ -17,4 +17,4 @@ Won the first edition of my university’s programming competition.
 
 <br/>
 
-3 years of Java, still my go-to, but open to whatever works.
++3 years of Java, still my go-to, but open to whatever works.
