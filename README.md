@@ -1,7 +1,7 @@
 # Manuel Albuquerque
 
 - Computer Science and Business Management **@ ISCTE-IUL**  
-- Full Stack Developer **@ [FISTA](https://fista.iscte-iul.pt)**  
+- Tech Lead & Full Stack Developer **@ [FISTA](https://fista.iscte-iul.pt)**  
 
 ---
 
